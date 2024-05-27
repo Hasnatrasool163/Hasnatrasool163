@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnatrasool163" alt="hasnatrasool163" /></a> </p>
 
-- 🔭 I’m currently working on **2D Game**
+- 🔭 I’m currently working on **Java Swing Desktop Applications**
 
-- 🌱 I’m currently learning **Java swing , Ruby on rails**
+- 🌱 I’m currently learning **Java swing ,Javafx-Scenebuilder, MySql, PhyMyAdmin**
 
 - 👯 I’m looking to collaborate on **Management Projects**
 
