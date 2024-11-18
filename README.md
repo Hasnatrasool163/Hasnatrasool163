@@ -5,17 +5,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnatrasool163" alt="hasnatrasool163" /></a> </p>
 
 - LeetCode Problems [![LeetCode user hasnatrasool163](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhasnatrasool163&logo=leetcode&logoColor=yellow)](https://leetcode.com/hasnatrasool163/)
-- 🔭 I’m currently working on **Java FX Desktop Applications**
+- 🔭 I’m currently working on **Java , Spring-Boot**
 
-- 🌱 I’m currently learning **Javafx-Scenebuilder, DSA, Spring-Boot**
+- 🌱 I’m currently learning **DSA, Spring-Boot, Backend-Development**
 
 - 👯 I’m looking to collaborate on **Management Projects**
 
-- 🤝 I’m looking for help with **ERP-System**
+- 🤝 I’m looking for help with **Backend-Development**
 
 - 👨‍💻 All of my projects are available at [https://hasnatrasool163.github.io/](https://hasnatrasool163.github.io/)
 
-- 💬 Ask me about **Tkinter , Java swing , JavaFx , MsTools**
+- 💬 Ask me about **Java , Java swing , JavaFx , Tkinter , Canva , Figma**
 
 - 📫 How to reach me **hasnatrasool163@gmail.com**
 
