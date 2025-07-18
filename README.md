@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hasnatrasool163.github.io/](https://hasnatrasool163.github.io/)
 
-- 💬 Ask me about **Java , Java swing , JavaFx , Tkinter , Canva , Figma , SprintBoot**
+- 💬 Ask me about **Java , Java swing , JavaFx , Tkinter , Canva , Figma , SpringBoot**
 
 - 📫 How to reach me **hasnatrasool163@gmail.com**
 
