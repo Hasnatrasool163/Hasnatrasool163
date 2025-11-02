@@ -4,11 +4,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnatrasool163" alt="hasnatrasool163" /></a> </p>
 
 - LeetCode Problems [![LeetCode user hasnatrasool163](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhasnatrasool163&logo=leetcode&logoColor=yellow)](https://leetcode.com/hasnatrasool163/)
-- 🔭 I’m currently working on **Java , Spring-Boot , ReactJs**
+- 🔭 I’m currently working on **Java , Spring-Boot , Flutter**
 
-- 🌱 I’m currently learning **DAA, Spring-Boot, Backend-Development**
+- 🌱 I’m currently learning **Flutter, Spring-Boot, Backend-Development**
 
-- 👯 I’m looking to collaborate on **Management Projects, Website Development**
+- 👯 I’m looking to collaborate on **Desktop Applications, Mobile App Developement**
 
 - 🤝 I’m looking for help with **Backend-Development**
 
