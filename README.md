@@ -39,5 +39,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnatrasool163&show_icons=true&locale=en" alt="hasnatrasool163" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnatrasool163&" alt="hasnatrasool163" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hasnatrasool163" alt="GitHub Streak" /></a></p>
 
