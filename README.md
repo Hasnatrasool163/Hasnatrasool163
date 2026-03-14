@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hasnat Rasool</h1>
 <h3 align="center">I am a Java Developer and Database Expert</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnatrasool163" alt="hasnatrasool163" /></a> </p>
-
 - LeetCode Problems [![LeetCode user hasnatrasool163](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhasnatrasool163&logo=leetcode&logoColor=yellow)](https://leetcode.com/hasnatrasool163/)
 
 # 💫 About Me:
@@ -24,9 +22,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hasnatrasool163&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hasnatrasool163&icon=0&color=0)](https://visitcount.itsvg.in)
