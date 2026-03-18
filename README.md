@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hasnat Rasool</h1>
 <h3 align="center">I am a Java Developer and Database Expert</h3>
 
-- LeetCode Problems [![LeetCode user hasnatrasool163](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhasnatrasool163&logo=leetcode&logoColor=yellow)](https://leetcode.com/hasnatrasool163/)
+<p align="center">
+  LeetCode Problems 
+  <a href="https://leetcode.com/hasnatrasool163/">
+    <img 
+      src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhasnatrasool163&logo=leetcode&logoColor=yellow" 
+      alt="LeetCode user hasnatrasool163"
+      style="vertical-align: middle;"
+    />
+  </a>
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on Java , Spring-Boot , Flutter<br><br>🌱 I’m currently learning Flutter, Spring-Boot, Backend-Development<br><br>👯 I’m looking to collaborate on Desktop Applications, Mobile App Developement<br><br>🤝 I’m looking for help with Backend-Development<br><br>👨‍💻 All of my projects are available at https://hasnatrasool163.github.io/
